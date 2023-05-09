@@ -5,8 +5,8 @@ import config from "@config/config.json";
 const { blog_folder, pagination } = config.settings;
 const SearchContext = createContext();
 
-export const JsonContext = ({ children }) => {
-  const posts =  getSinglePage(`content/${blog_folder}/post`)
+export const JsonContext =async ({ children }) => {
+  const posts = await getSinglePage(`content/${blog_folder}/post`)
   const state = {
     posts,
   };

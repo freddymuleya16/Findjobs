@@ -55,7 +55,6 @@ export const getStaticProps = async ({ params }) => {
   const { regular } = params;
 
   const allPages = await getRegularPage(regular);
-   console.log("regu",allPages ) 
    return {
     props: {
       slug: regular,
