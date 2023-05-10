@@ -22,18 +22,18 @@
   },
   "params": {
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper.",
-    "copyright": "Designed and Developed By [Statichunt](https://statichunt.com/)"
+    "footer_content": "Find Jobs is dedicated to providing you with the tools and resources you need to succeed in your job search. Our mission is to help you find the right job, advance your career, and achieve your professional goals. We believe that everyone deserves to find fulfilling work, and we're here to help you every step of the way. Contact us to learn more about how we can support your job search journey.",
+    "copyright": "Designed and Developed By [MULEYATECH](https://muleyatech.com/)"
   },
   "metadata": {
-    "meta_author": "Statichunt",
+    "meta_author": "Freddy",
     "meta_image": "/images/og-image.png",
     "meta_description": "Find Jobs blog"
   },
   "widgets": {
     "about": {
       "enable": true,
-      "content": "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
+      "content": "Stay connected with Find Jobs and join our social media community! Follow us on [insert social media platforms] for the latest job search tips, career advice, and job opportunities. Don't miss out on valuable insights and resources to help you advance your career. Connect with us today!"
     },
     "featured_posts": {
       "enable": true,
@@ -47,7 +47,7 @@
     "newsletter": {
       "enable": true,
       "title": "Newsletter",
-      "content": "Join thousands of Tiny Salt subscribers and get our best recipes delivered each week!",
+      "content": "Join thousands of subscribers and become a part of the Find Jobs community. Receive our latest job search tips, career advice, and job opportunities straight to your inbox every week. Sign up today and take the first step towards finding your dream job.",
       "privacy_policy_page": "#",
       "malichipm_url": ""
     }
