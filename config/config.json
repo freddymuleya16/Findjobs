@@ -2,9 +2,9 @@
   "site": {
     "title": "Find Jobs",
     "base_url": "/",
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_white": "/images/logo-light.png",
+    "favicon": "/images/favico.png",
+    "logo": "/images/log.png",
+    "logo_white": "/images/log.png",
     "logo_width": "150",
     "logo_height": "39",
     "logo_text": "Find Jobs"

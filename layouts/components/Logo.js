@@ -28,6 +28,7 @@ const Logo = ({ src }) => {
           style={{
             height: logo_height.replace("px", "") + "px",
             width: logo_width.replace("px", "") + "px",
+            objectFit:'cover'
           }}
           className={"m-auto"}
         />
