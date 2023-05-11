@@ -32,7 +32,7 @@
   },
   "widgets": {
     "about": {
-      "enable": true,
+      "enable": false,
       "content": "Stay connected with Find Jobs and join our social media community! Follow us on [insert social media platforms] for the latest job search tips, career advice, and job opportunities. Don't miss out on valuable insights and resources to help you advance your career. Connect with us today!"
     },
     "featured_posts": {
@@ -48,12 +48,12 @@
       "enable": true,
       "title": "Newsletter",
       "content": "Join thousands of subscribers and become a part of the Find Jobs community. Receive our latest job search tips, career advice, and job opportunities straight to your inbox every week. Sign up today and take the first step towards finding your dream job.",
-      "privacy_policy_page": "#",
+      "privacy_policy_page": "/privacy",
       "malichipm_url": ""
     }
   },
   "disqus": {
-    "enable": true,
+    "enable": false,
     "shortname": "Find-jobs",
     "settings": {}
   }
